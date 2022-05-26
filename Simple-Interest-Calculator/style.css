@@ -1,0 +1,61 @@
+body 
+{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial;
+}
+
+h1
+{
+    color: grey;
+    font-family: Verdana;
+}
+
+.maindiv
+{
+    background-color: #ffffff;
+    color: #000000;
+    width: 500px;
+    padding: 20px;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content
+{
+    margin-left: 80px;
+    font-weight: 545;
+}
+.copyright{
+    font-weight: 545;
+}
+
+table td
+{
+    padding-bottom: 10px;
+}
+
+.percent{
+    display: inline;
+}
+
+#principal{
+    height: 18px;
+    width: 146px;    
+}
+
+#years{
+    height: 20px;
+    width: 40px;
+}
+
+.label
+{
+    width: 120px;
+}
+
+.highlight
+{
+    background-color: #ffff00;
+}
